@@ -3,20 +3,20 @@
 <table>
   <tr>
     <td>
-      <img src="screenshots/01-portfolio.png" alt="Portfolio overview" width="500"/>
+      <img src=https://github.com/didarul-rashed/Project-Portfolio-Tracker-Dashboard/blob/c0cdbef31ac7de3403e785bb1002a73b15b86366/Screenshot%202026-11-13%20105436.png/>
     </td>
     <td>
-      <img src="screenshots/02-timeline.png" alt="Project timeline" width="500"/>
+      <img src=https://github.com/didarul-rashed/Project-Portfolio-Tracker-Dashboard/blob/c0cdbef31ac7de3403e785bb1002a73b15b86366/Screenshot%202026-11-13%20105528.png/>
     </td>
   </tr>
 </table>
 <table>
   <tr>
     <td>
-      <img src="screenshots/03-project-page.png" alt="Project page" width="500"/>
+      <img src=https://github.com/didarul-rashed/Project-Portfolio-Tracker-Dashboard/blob/c0cdbef31ac7de3403e785bb1002a73b15b86366/Screenshot%202026-11-13%20105611.png/>
     </td>
     <td>
-      <img src="screenshots/04-menu.png" alt="Navigation menu" width="500"/>
+      <img src=https://github.com/didarul-rashed/Project-Portfolio-Tracker-Dashboard/blob/c0cdbef31ac7de3403e785bb1002a73b15b86366/Screenshot%202026-11-13%20105650.png/>
     </td>
   </tr>
 </table>
